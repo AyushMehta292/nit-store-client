@@ -1,3 +1,9 @@
+## nit-store-client
+
+This is a web application where NIT JSR students with their institute mail id, can buy and sell products, having authorization and authentication, and many more exciting features and security.
+
+## Tech behind
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
